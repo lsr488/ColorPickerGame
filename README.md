@@ -4,3 +4,5 @@
 <p>Easy has just three options.</p>
 <p>Hard has six.</p>
 <p>When you're ready for new colors, click either "New Game/Play Again?" or your preferred game mode!</p>
+
+(From the code-along in Colt Steele's Udemy web development course)
